@@ -27,6 +27,11 @@ var tasks = [
   "Keep three ice cubes in your mouth until they melt",
   "Write an autobiography",
   "Change your work way every problem has a solution"
+  "Tell us about your favourite artist and his best art"
+  "Create your first Pull Request"
+  "Give a star to this Repository"
+  "Participate in HACKTOBERFEST 2022"
+  "Share your registration badge on LinkedIn"
 ];
 
 function getTask() {
